@@ -1,0 +1,44 @@
+package task;
+
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+
+
+class FileEncryption{
+	private String password;
+	public void setPwd(String pwd){
+		password = pwd;
+	}
+	public void encryption(String fileIn,String fileOut){
+		FileInputStream fis = null;
+		FileOutputStream fos = null;
+		try {
+			fis = new FileInputStream(fileIn);
+			fos = new FileOutputStream(fileOut);
+			byte[] key = password.getBytes();  							//将password字符串转化为byte数组
+			byte[] buffer = new byte[key.length];						//每次读取与password等长的字节数并存放其中
+			int hasRead;
+			while((hasRead=fis.read(buffer))!=-1){
+				for (int i = 0; i < hasRead; i++) {
+					buffer[i]=(byte) (buffer[i]^key[i]);				//对buffer数组里的每个字节进行异或操作
+				}
+				fos.write(buffer,0,hasRead);							//将最终结果写入到文件中
+			}
+		} catch (Exception e) {
+			System.out.println("错误！");
+		}
+	}
+}
+
+public class Task {
+	public static void main(String[] args) {
+		FileEncryption fe = new FileEncryption();
+		fe.setPwd("pnjsb");
+		//fe.encryption();
+		System.out.println("Encryption,OK");
+		//fe.encryption();
+		System.out.println("Dencrytion,OK");
+		
+	}
+}
