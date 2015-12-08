@@ -28,7 +28,6 @@
 <fullyQualifiedTypeName name="duotai.AmbulanceCar"/>
 <fullyQualifiedTypeName name="task5_10.SilverOrder"/>
 <fullyQualifiedTypeName name="task5_10.SuperMarket"/>
-<fullyQualifiedTypeName name="java.io.BufferedWriter"/>
 <fullyQualifiedTypeName name="java.lang.StrictMath"/>
 <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
 <fullyQualifiedTypeName name="java.lang.Object"/>
@@ -45,14 +44,19 @@
 <fullyQualifiedTypeName name="javax.sound.sampled.EnumControl"/>
 <fullyQualifiedTypeName name="javax.print.attribute.standard.MediaName"/>
 <fullyQualifiedTypeName name="org.omg.CORBA.StringHolder"/>
-<fullyQualifiedTypeName name="java.lang.String"/>
 <fullyQualifiedTypeName name="java.io.FileInputStream"/>
 <fullyQualifiedTypeName name="java.nio.charset.spi.CharsetProvider"/>
 <fullyQualifiedTypeName name="java.lang.management.BufferPoolMXBean"/>
-<fullyQualifiedTypeName name="java.io.FileReader"/>
-<fullyQualifiedTypeName name="java.io.FileWriter"/>
 <fullyQualifiedTypeName name="java.util.Scanner"/>
 <fullyQualifiedTypeName name="java.lang.System"/>
-<fullyQualifiedTypeName name="java.io.File"/>
 <fullyQualifiedTypeName name="countchar.CountChar"/>
+<fullyQualifiedTypeName name="java.awt.FlowLayout"/>
+<fullyQualifiedTypeName name="javax.swing.plaf.basic.BasicCheckBoxMenuItemUI"/>
+<fullyQualifiedTypeName name="java.io.BufferedReader"/>
+<fullyQualifiedTypeName name="java.io.BufferedWriter"/>
+<fullyQualifiedTypeName name="java.io.FileReader"/>
+<fullyQualifiedTypeName name="java.io.FileWriter"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="task9_5.CodeLineCounter"/>
 </qualifiedTypeNameHistroy>
