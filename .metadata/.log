@@ -3403,3 +3403,6 @@ Caused by: java.net.SocketTimeoutException: Read timed out
 	at org.eclipse.jgit.util.HttpSupport.response(HttpSupport.java:168)
 	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:475)
 	... 6 more
+
+!ENTRY org.eclipse.recommenders.models.rcp 1 0 2015-12-15 10:13:03.703
+!MESSAGE org.eclipse.recommenders:index::zip:0.0.0 could not be resolved from model repositories. Are you offline?

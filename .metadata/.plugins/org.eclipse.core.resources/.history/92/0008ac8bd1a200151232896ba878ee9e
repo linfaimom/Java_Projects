@@ -52,7 +52,8 @@ class FirstWindow extends JFrame{
 		menuFile.add(menuOpen);
 		menuOpen.add(menuItemFile1);
 		menuOpen.add(menuItemFile2);
-		setJMenuBar(menuBar);
+		//setJMenuBar(menuBar);
+		add(menuBar);
 		add(btnOK);
 	}
 }

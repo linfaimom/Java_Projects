@@ -3,7 +3,6 @@
 package task11_1;
 
 import java.awt.FlowLayout;
-
 import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JMenu;
@@ -11,11 +10,6 @@ import javax.swing.JMenuBar;
 import javax.swing.JMenuItem;
 
 class FirstWindow extends JFrame{
-	/**
-	 * 
-	 */
-	private static final long serialVersionUID = 1L;
-	
 	JMenuBar menuBar;  					//菜单条
 	JMenu menuFile;						//菜单“File”
 	JMenuItem menuItemCreate;				//菜单项“Create”
@@ -52,14 +46,13 @@ class FirstWindow extends JFrame{
 		menuFile.add(menuOpen);
 		menuOpen.add(menuItemFile1);
 		menuOpen.add(menuItemFile2);
-		setJMenuBar(menuBar);
+		add(menuBar);
 		add(btnOK);
 	}
 }
 
 public class Task11_1 {
 	public static void main(String[] args) {
-		@SuppressWarnings("unused")
 		FirstWindow first = new FirstWindow();
 	}
 }
