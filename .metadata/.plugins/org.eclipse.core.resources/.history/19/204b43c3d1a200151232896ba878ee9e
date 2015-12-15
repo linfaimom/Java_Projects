@@ -45,7 +45,7 @@ class FirstWindow extends JFrame{
 		menuItemFile2 = new JMenuItem("File2");	        		//²Ëµ¥Ïî¡°File2¡±
 		btnOK = new JButton("OK");      	        		//°´Å¥OK
 		menuBar.add(menuFile);
-		//menuBar.add(menuOpen);
+		menuBar.add(menuOpen);
 		menuFile.add(menuItemCreate);
 		menuFile.add(menuItemClose);
 		menuFile.add(menuItemSave);
