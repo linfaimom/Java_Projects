@@ -38,6 +38,25 @@
 <entry path="/usr/share/jdk1.8.0_65/jre/lib/endorsed"/>
 </endorsedDirs>
 </libraryInfo>
+<libraryInfo home="C:\Program Files\Java\jre1.8.0_20" version="1.8.0_20">
+<bootpath>
+<entry path="C:\Program Files\Java\jre1.8.0_20\lib\resources.jar"/>
+<entry path="C:\Program Files\Java\jre1.8.0_20\lib\rt.jar"/>
+<entry path="C:\Program Files\Java\jre1.8.0_20\lib\sunrsasign.jar"/>
+<entry path="C:\Program Files\Java\jre1.8.0_20\lib\jsse.jar"/>
+<entry path="C:\Program Files\Java\jre1.8.0_20\lib\jce.jar"/>
+<entry path="C:\Program Files\Java\jre1.8.0_20\lib\charsets.jar"/>
+<entry path="C:\Program Files\Java\jre1.8.0_20\lib\jfr.jar"/>
+<entry path="C:\Program Files\Java\jre1.8.0_20\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\Program Files\Java\jre1.8.0_20\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\Program Files\Java\jre1.8.0_20\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
 <libraryInfo home="/usr/share/jdk1.8.0_65/jre" version="1.8.0_65">
 <bootpath>
 <entry path="/usr/share/jdk1.8.0_65/jre/lib/resources.jar"/>
