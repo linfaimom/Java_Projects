@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="java.util.FormatFlagsConversionMismatchException"/>
-<fullyQualifiedTypeName name="javax.swing.text.GapContent"/>
-<fullyQualifiedTypeName name="java.nio.charset.MalformedInputException"/>
-<fullyQualifiedTypeName name="org.omg.CORBA.PUBLIC_MEMBER"/>
-<fullyQualifiedTypeName name="java.util.Calendar"/>
 <fullyQualifiedTypeName name="java.lang.InstantiationError"/>
 <fullyQualifiedTypeName name="testreload.Sum"/>
 <fullyQualifiedTypeName name="java.lang.Double"/>
@@ -29,7 +24,6 @@
 <fullyQualifiedTypeName name="task5_10.SilverOrder"/>
 <fullyQualifiedTypeName name="task5_10.SuperMarket"/>
 <fullyQualifiedTypeName name="java.lang.StrictMath"/>
-<fullyQualifiedTypeName name="java.io.FileOutputStream"/>
 <fullyQualifiedTypeName name="java.lang.Object"/>
 <fullyQualifiedTypeName name="java.util.Collection"/>
 <fullyQualifiedTypeName name="java.util.Collections"/>
@@ -44,7 +38,6 @@
 <fullyQualifiedTypeName name="javax.sound.sampled.EnumControl"/>
 <fullyQualifiedTypeName name="javax.print.attribute.standard.MediaName"/>
 <fullyQualifiedTypeName name="org.omg.CORBA.StringHolder"/>
-<fullyQualifiedTypeName name="java.io.FileInputStream"/>
 <fullyQualifiedTypeName name="java.nio.charset.spi.CharsetProvider"/>
 <fullyQualifiedTypeName name="java.lang.management.BufferPoolMXBean"/>
 <fullyQualifiedTypeName name="java.util.Scanner"/>
@@ -56,7 +49,15 @@
 <fullyQualifiedTypeName name="java.io.BufferedWriter"/>
 <fullyQualifiedTypeName name="java.io.FileReader"/>
 <fullyQualifiedTypeName name="java.io.FileWriter"/>
+<fullyQualifiedTypeName name="task9_5.CodeLineCounter"/>
+<fullyQualifiedTypeName name="java.lang.LinkageError"/>
+<fullyQualifiedTypeName name="java.io.Serializable"/>
 <fullyQualifiedTypeName name="java.lang.String"/>
 <fullyQualifiedTypeName name="java.io.File"/>
-<fullyQualifiedTypeName name="task9_5.CodeLineCounter"/>
+<fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+<fullyQualifiedTypeName name="java.io.ObjectOutput"/>
+<fullyQualifiedTypeName name="java.io.ObjectOutputStream"/>
+<fullyQualifiedTypeName name="java.io.FileInputStream"/>
+<fullyQualifiedTypeName name="java.io.ObjectInputStream"/>
+<fullyQualifiedTypeName name="task9_7.Student"/>
 </qualifiedTypeNameHistroy>
