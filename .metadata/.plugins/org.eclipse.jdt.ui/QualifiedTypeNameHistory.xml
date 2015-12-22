@@ -33,7 +33,6 @@
 <fullyQualifiedTypeName name="T"/>
 <fullyQualifiedTypeName name="fanxing.Apple"/>
 <fullyQualifiedTypeName name="java.lang.Number"/>
-<fullyQualifiedTypeName name="java.lang.Integer"/>
 <fullyQualifiedTypeName name="java.io.Externalizable"/>
 <fullyQualifiedTypeName name="javax.sound.sampled.EnumControl"/>
 <fullyQualifiedTypeName name="javax.print.attribute.standard.MediaName"/>
@@ -60,4 +59,5 @@
 <fullyQualifiedTypeName name="java.io.FileInputStream"/>
 <fullyQualifiedTypeName name="java.io.ObjectInputStream"/>
 <fullyQualifiedTypeName name="task9_7.Student"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
 </qualifiedTypeNameHistroy>

@@ -27,3 +27,5 @@ Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find
 	... 8 common frames omitted
 2015-12-12 13:08:57,859 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is not available. Remote download required.
 2015-12-14 22:12:51,415 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is out-of-date. Remote download required.
+2015-12-18 17:09:07,185 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is out-of-date. Remote download required.
+2015-12-22 12:29:54,904 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is out-of-date. Remote download required.
